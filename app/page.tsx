@@ -18,7 +18,7 @@ export default function Page() {
           <p className={`${lusitana.className}text-xl text-gray-800 md:text-3xl md:leading-normal`}>
             <strong>Welcome to Acme.</strong> This is the example for the{' '}
             <a href="http://localhost:3000/dashboard" target="_blank" className="text-blue-500">
-              Next.js Learn Course
+              Dashboard
             </a>
             , brought to you by Vercel.
           </p>
